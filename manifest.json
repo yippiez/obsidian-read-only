@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "eren-read-only",
+	"name": "Read Only Documents",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Makes documents 'Read Only' when they have a tag called #read-only in the file properties.",
+	"author": "Eren",
+	"authorUrl": "https://github.com/yippiez",
+	"fundingUrl": "https://github.com/yippiez",
 	"isDesktopOnly": false
 }
